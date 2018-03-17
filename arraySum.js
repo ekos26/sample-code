@@ -5,4 +5,3 @@ function arraySum(num){
 	}
 	return sum;
 }
-
