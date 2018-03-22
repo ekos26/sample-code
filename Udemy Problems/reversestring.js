@@ -13,7 +13,6 @@ function reverse(str) {
 	return arr.join('');
 }
 
-module.exports = reverse;
 
 
 /* function reverse(str) {
@@ -23,7 +22,6 @@ module.exports = reverse;
 	.join('');
 }
 
-module.exports = reverse;
 
 */
 
@@ -37,15 +35,11 @@ module.exports = reverse;
 	return reversed;
 }
 
-module.exports = reverse;
-
 */
 
 /*function reverse(str) {
   return str.split('').reduce((rev, char) => char + rev, '');
 }
-
-module.exports = reverse;
 
 /*
 
